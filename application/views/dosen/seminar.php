@@ -19,6 +19,7 @@
 <div class="card">
     <div class="card-header">
         <div class="card-title">Data Seminar</div>
+        <button type="button" id="generateButton" class="btn btn-primary">Generate Seminar</button>
     </div>
     <div class="card-body">
         <div class="table-responsive">
@@ -191,6 +192,32 @@
     function disableBtn() {
         $(".btn-act").attr('disabled', true).html('Loading ...')
     }
+
+    $(document).ready(function() {
+            $('#generateButton').click(function() {
+                var generate = 1;
+
+                $.ajax({
+                    url: '<?php echo base_url("api/Dosen/generateseminar"); ?>',
+                    type: 'POST',
+                    data: { generate: generate },
+                    dataType: 'json',
+                    success: function(response) {
+                        if (response.status === 'success') {
+                            alert(response.message);
+                            // Handle success actions here
+                        } else {
+                            alert(response.message);
+                            // Handle error actions here
+                        }
+                    },
+                    error: function(xhr, textStatus, errorThrown) {
+                        alert('AJAX request failed.');
+                        console.log(xhr.responseText);
+                    }
+                });
+            });
+        });
 </script>
 <?php $this->app->endSection('script') ?>
 
