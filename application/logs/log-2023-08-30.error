@@ -194,9 +194,25 @@ ERROR - 2023-08-30 16:45:00 --> Severity: Warning --> Undefined array key "mahas
 ERROR - 2023-08-30 16:45:02 --> 404 Page Not Found: Cdn/vendor
 ERROR - 2023-08-30 16:45:02 --> 404 Page Not Found: Cdn/vendor
 ERROR - 2023-08-30 16:45:03 --> Severity: Warning --> Undefined array key "mahasiswa_id" D:\xampp\htdocs\abbas\application\models\Seminar_model.php 32
+<<<<<<< HEAD
 >>>>>>> 5521360cd70a3bc114e0c8be3f7e1c558d1debe8
 ERROR - 2023-08-30 17:25:08 --> Severity: error --> Exception: Unknown database 'sistem_skripsi' C:\xampp\htdocs\genetika\system\database\drivers\mysqli\mysqli_driver.php 201
 ERROR - 2023-08-30 17:25:25 --> Severity: error --> Exception: Unknown database 'sistem_skripsi' C:\xampp\htdocs\genetika\system\database\drivers\mysqli\mysqli_driver.php 201
 ERROR - 2023-08-30 17:25:36 --> Severity: error --> Exception: Unknown database 'sistem_skripsi' C:\xampp\htdocs\genetika\system\database\drivers\mysqli\mysqli_driver.php 201
 ERROR - 2023-08-30 18:10:00 --> Severity: error --> Exception: Unknown database 'sistem_skripsi' C:\xampp\htdocs\genetika\system\database\drivers\mysqli\mysqli_driver.php 201
 ERROR - 2023-08-30 18:16:34 --> Severity: error --> Exception: Unknown database 'sistem_skripsi' C:\xampp\htdocs\genetika\system\database\drivers\mysqli\mysqli_driver.php 201
+=======
+ERROR - 2023-08-30 17:24:13 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-08-30 17:24:13 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-08-30 17:24:24 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-08-30 17:24:24 --> 404 Page Not Found: Cdn/vendor
+ERROR - 2023-08-30 17:33:37 --> Severity: Warning --> Undefined array key "seminar_proposal" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 32
+ERROR - 2023-08-30 17:33:37 --> Severity: Warning --> Undefined array key "hasil_penelitian" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 33
+ERROR - 2023-08-30 17:33:37 --> Severity: Warning --> Undefined array key "seminar_proposal" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 32
+ERROR - 2023-08-30 17:33:37 --> Severity: Warning --> Undefined array key "hasil_penelitian" D:\xampp\htdocs\abbas\application\models\Mahasiswa_model.php 33
+ERROR - 2023-08-30 17:33:38 --> Severity: Warning --> Undefined array key "dosen_id" D:\xampp\htdocs\abbas\application\models\Proposal_mahasiswa_model.php 17
+ERROR - 2023-08-30 17:33:38 --> Severity: Warning --> Undefined array key "status" D:\xampp\htdocs\abbas\application\models\Proposal_mahasiswa_model.php 21
+ERROR - 2023-08-30 17:33:38 --> Severity: Warning --> Undefined array key "mahasiswa_id" D:\xampp\htdocs\abbas\application\models\Proposal_mahasiswa_model.php 25
+ERROR - 2023-08-30 17:33:41 --> Severity: Warning --> Undefined array key "mahasiswa_id" D:\xampp\htdocs\abbas\application\models\Seminar_model.php 32
+ERROR - 2023-08-30 18:13:39 --> Severity: Warning --> Undefined array key "mahasiswa_id" D:\xampp\htdocs\abbas\application\models\Seminar_model.php 32
+>>>>>>> 2ebf95b9fb511097ca6fc08166e15ff64d7a0e39

@@ -1,0 +1,199 @@
+ERROR - 2023-09-05 07:46:52 --> Severity: Warning --> fsockopen(): SSL operation failed with code 1. OpenSSL Error messages:
+error:0A000086:SSL routines::certificate verify failed C:\xampp\htdocs\genetika\system\libraries\Email.php 2019
+ERROR - 2023-09-05 07:46:52 --> Severity: Warning --> fsockopen(): Failed to enable crypto C:\xampp\htdocs\genetika\system\libraries\Email.php 2019
+ERROR - 2023-09-05 07:46:52 --> Severity: Warning --> fsockopen(): Unable to connect to ssl://mail.imamdev.com:465 (Unknown error) C:\xampp\htdocs\genetika\system\libraries\Email.php 2019
+ERROR - 2023-09-05 07:47:04 --> Severity: Warning --> Undefined array key "seminar_proposal" C:\xampp\htdocs\genetika\application\models\Mahasiswa_model.php 32
+ERROR - 2023-09-05 07:47:04 --> Severity: Warning --> Undefined array key "hasil_penelitian" C:\xampp\htdocs\genetika\application\models\Mahasiswa_model.php 33
+ERROR - 2023-09-05 07:47:04 --> Severity: Warning --> Undefined array key "seminar_proposal" C:\xampp\htdocs\genetika\application\models\Mahasiswa_model.php 32
+ERROR - 2023-09-05 07:47:04 --> Severity: Warning --> Undefined array key "hasil_penelitian" C:\xampp\htdocs\genetika\application\models\Mahasiswa_model.php 33
+ERROR - 2023-09-05 07:47:04 --> Severity: Warning --> Undefined array key "seminar_proposal" C:\xampp\htdocs\genetika\application\models\Mahasiswa_model.php 32
+ERROR - 2023-09-05 07:47:04 --> Severity: Warning --> Undefined array key "hasil_penelitian" C:\xampp\htdocs\genetika\application\models\Mahasiswa_model.php 33
+ERROR - 2023-09-05 07:47:04 --> Severity: Warning --> Undefined array key "seminar_proposal" C:\xampp\htdocs\genetika\application\models\Mahasiswa_model.php 32
+ERROR - 2023-09-05 07:47:04 --> Severity: Warning --> Undefined array key "hasil_penelitian" C:\xampp\htdocs\genetika\application\models\Mahasiswa_model.php 33
+ERROR - 2023-09-05 07:47:04 --> Severity: Warning --> Undefined array key "seminar_proposal" C:\xampp\htdocs\genetika\application\models\Mahasiswa_model.php 32
+ERROR - 2023-09-05 07:47:04 --> Severity: Warning --> Undefined array key "hasil_penelitian" C:\xampp\htdocs\genetika\application\models\Mahasiswa_model.php 33
+ERROR - 2023-09-05 07:47:04 --> Severity: Warning --> Undefined array key "seminar_proposal" C:\xampp\htdocs\genetika\application\models\Mahasiswa_model.php 32
+ERROR - 2023-09-05 07:47:05 --> Severity: Warning --> Undefined array key "hasil_penelitian" C:\xampp\htdocs\genetika\application\models\Mahasiswa_model.php 33
+ERROR - 2023-09-05 07:47:07 --> Severity: Warning --> Undefined array key "seminar_proposal" C:\xampp\htdocs\genetika\application\models\Mahasiswa_model.php 32
+ERROR - 2023-09-05 07:47:07 --> Severity: Warning --> Undefined array key "hasil_penelitian" C:\xampp\htdocs\genetika\application\models\Mahasiswa_model.php 33
+ERROR - 2023-09-05 07:47:07 --> Severity: Warning --> Undefined array key "seminar_proposal" C:\xampp\htdocs\genetika\application\models\Mahasiswa_model.php 32
+ERROR - 2023-09-05 07:47:07 --> Severity: Warning --> Undefined array key "hasil_penelitian" C:\xampp\htdocs\genetika\application\models\Mahasiswa_model.php 33
+ERROR - 2023-09-05 07:47:07 --> Severity: Warning --> Undefined array key "seminar_proposal" C:\xampp\htdocs\genetika\application\models\Mahasiswa_model.php 32
+ERROR - 2023-09-05 07:47:07 --> Severity: Warning --> Undefined array key "hasil_penelitian" C:\xampp\htdocs\genetika\application\models\Mahasiswa_model.php 33
+ERROR - 2023-09-05 07:47:07 --> Severity: Warning --> Undefined array key "seminar_proposal" C:\xampp\htdocs\genetika\application\models\Mahasiswa_model.php 32
+ERROR - 2023-09-05 07:47:07 --> Severity: Warning --> Undefined array key "hasil_penelitian" C:\xampp\htdocs\genetika\application\models\Mahasiswa_model.php 33
+ERROR - 2023-09-05 07:47:07 --> Severity: Warning --> Undefined array key "seminar_proposal" C:\xampp\htdocs\genetika\application\models\Mahasiswa_model.php 32
+ERROR - 2023-09-05 07:47:07 --> Severity: Warning --> Undefined array key "hasil_penelitian" C:\xampp\htdocs\genetika\application\models\Mahasiswa_model.php 33
+ERROR - 2023-09-05 07:47:07 --> Severity: Warning --> Undefined array key "seminar_proposal" C:\xampp\htdocs\genetika\application\models\Mahasiswa_model.php 32
+ERROR - 2023-09-05 07:47:07 --> Severity: Warning --> Undefined array key "hasil_penelitian" C:\xampp\htdocs\genetika\application\models\Mahasiswa_model.php 33
+ERROR - 2023-09-05 07:47:27 --> Severity: Warning --> fsockopen(): SSL operation failed with code 1. OpenSSL Error messages:
+error:0A000086:SSL routines::certificate verify failed C:\xampp\htdocs\genetika\system\libraries\Email.php 2019
+ERROR - 2023-09-05 07:47:27 --> Severity: Warning --> fsockopen(): Failed to enable crypto C:\xampp\htdocs\genetika\system\libraries\Email.php 2019
+ERROR - 2023-09-05 07:47:27 --> Severity: Warning --> fsockopen(): Unable to connect to ssl://mail.imamdev.com:465 (Unknown error) C:\xampp\htdocs\genetika\system\libraries\Email.php 2019
+ERROR - 2023-09-05 07:47:58 --> Severity: Warning --> Undefined array key "dosen_id" C:\xampp\htdocs\genetika\application\models\Proposal_mahasiswa_model.php 17
+ERROR - 2023-09-05 07:47:58 --> Severity: Warning --> Undefined array key "status" C:\xampp\htdocs\genetika\application\models\Proposal_mahasiswa_model.php 21
+ERROR - 2023-09-05 07:51:40 --> Severity: Warning --> Undefined array key "dosen_id" C:\xampp\htdocs\genetika\application\models\Proposal_mahasiswa_model.php 17
+ERROR - 2023-09-05 07:51:40 --> Severity: Warning --> Undefined array key "status" C:\xampp\htdocs\genetika\application\models\Proposal_mahasiswa_model.php 21
+ERROR - 2023-09-05 07:51:52 --> Severity: Warning --> Undefined array key "seminar_proposal" C:\xampp\htdocs\genetika\application\models\Mahasiswa_model.php 32
+ERROR - 2023-09-05 07:51:52 --> Severity: Warning --> Undefined array key "hasil_penelitian" C:\xampp\htdocs\genetika\application\models\Mahasiswa_model.php 33
+ERROR - 2023-09-05 07:51:52 --> Severity: Warning --> Undefined array key "seminar_proposal" C:\xampp\htdocs\genetika\application\models\Mahasiswa_model.php 32
+ERROR - 2023-09-05 07:51:52 --> Severity: Warning --> Undefined array key "hasil_penelitian" C:\xampp\htdocs\genetika\application\models\Mahasiswa_model.php 33
+ERROR - 2023-09-05 07:51:52 --> Severity: Warning --> Undefined array key "seminar_proposal" C:\xampp\htdocs\genetika\application\models\Mahasiswa_model.php 32
+ERROR - 2023-09-05 07:51:52 --> Severity: Warning --> Undefined array key "hasil_penelitian" C:\xampp\htdocs\genetika\application\models\Mahasiswa_model.php 33
+ERROR - 2023-09-05 07:51:52 --> Severity: Warning --> Undefined array key "seminar_proposal" C:\xampp\htdocs\genetika\application\models\Mahasiswa_model.php 32
+ERROR - 2023-09-05 07:51:52 --> Severity: Warning --> Undefined array key "hasil_penelitian" C:\xampp\htdocs\genetika\application\models\Mahasiswa_model.php 33
+ERROR - 2023-09-05 07:51:52 --> Severity: Warning --> Undefined array key "seminar_proposal" C:\xampp\htdocs\genetika\application\models\Mahasiswa_model.php 32
+ERROR - 2023-09-05 07:51:52 --> Severity: Warning --> Undefined array key "hasil_penelitian" C:\xampp\htdocs\genetika\application\models\Mahasiswa_model.php 33
+ERROR - 2023-09-05 07:51:52 --> Severity: Warning --> Undefined array key "seminar_proposal" C:\xampp\htdocs\genetika\application\models\Mahasiswa_model.php 32
+ERROR - 2023-09-05 07:51:52 --> Severity: Warning --> Undefined array key "hasil_penelitian" C:\xampp\htdocs\genetika\application\models\Mahasiswa_model.php 33
+ERROR - 2023-09-05 07:51:52 --> Severity: Warning --> Undefined array key "seminar_proposal" C:\xampp\htdocs\genetika\application\models\Mahasiswa_model.php 32
+ERROR - 2023-09-05 07:51:52 --> Severity: Warning --> Undefined array key "hasil_penelitian" C:\xampp\htdocs\genetika\application\models\Mahasiswa_model.php 33
+ERROR - 2023-09-05 07:51:55 --> Severity: Warning --> Undefined array key "seminar_proposal" C:\xampp\htdocs\genetika\application\models\Mahasiswa_model.php 32
+ERROR - 2023-09-05 07:51:55 --> Severity: Warning --> Undefined array key "hasil_penelitian" C:\xampp\htdocs\genetika\application\models\Mahasiswa_model.php 33
+ERROR - 2023-09-05 07:51:55 --> Severity: Warning --> Undefined array key "seminar_proposal" C:\xampp\htdocs\genetika\application\models\Mahasiswa_model.php 32
+ERROR - 2023-09-05 07:51:55 --> Severity: Warning --> Undefined array key "hasil_penelitian" C:\xampp\htdocs\genetika\application\models\Mahasiswa_model.php 33
+ERROR - 2023-09-05 07:51:55 --> Severity: Warning --> Undefined array key "seminar_proposal" C:\xampp\htdocs\genetika\application\models\Mahasiswa_model.php 32
+ERROR - 2023-09-05 07:51:55 --> Severity: Warning --> Undefined array key "hasil_penelitian" C:\xampp\htdocs\genetika\application\models\Mahasiswa_model.php 33
+ERROR - 2023-09-05 07:51:55 --> Severity: Warning --> Undefined array key "seminar_proposal" C:\xampp\htdocs\genetika\application\models\Mahasiswa_model.php 32
+ERROR - 2023-09-05 07:51:55 --> Severity: Warning --> Undefined array key "hasil_penelitian" C:\xampp\htdocs\genetika\application\models\Mahasiswa_model.php 33
+ERROR - 2023-09-05 07:51:55 --> Severity: Warning --> Undefined array key "seminar_proposal" C:\xampp\htdocs\genetika\application\models\Mahasiswa_model.php 32
+ERROR - 2023-09-05 07:51:55 --> Severity: Warning --> Undefined array key "hasil_penelitian" C:\xampp\htdocs\genetika\application\models\Mahasiswa_model.php 33
+ERROR - 2023-09-05 07:51:55 --> Severity: Warning --> Undefined array key "seminar_proposal" C:\xampp\htdocs\genetika\application\models\Mahasiswa_model.php 32
+ERROR - 2023-09-05 07:51:55 --> Severity: Warning --> Undefined array key "hasil_penelitian" C:\xampp\htdocs\genetika\application\models\Mahasiswa_model.php 33
+ERROR - 2023-09-05 07:51:55 --> Severity: Warning --> Undefined array key "seminar_proposal" C:\xampp\htdocs\genetika\application\models\Mahasiswa_model.php 32
+ERROR - 2023-09-05 07:51:55 --> Severity: Warning --> Undefined array key "hasil_penelitian" C:\xampp\htdocs\genetika\application\models\Mahasiswa_model.php 33
+ERROR - 2023-09-05 07:51:56 --> Severity: Warning --> Undefined array key "seminar_proposal" C:\xampp\htdocs\genetika\application\models\Mahasiswa_model.php 32
+ERROR - 2023-09-05 07:51:56 --> Severity: Warning --> Undefined array key "hasil_penelitian" C:\xampp\htdocs\genetika\application\models\Mahasiswa_model.php 33
+ERROR - 2023-09-05 07:51:56 --> Severity: Warning --> Undefined array key "seminar_proposal" C:\xampp\htdocs\genetika\application\models\Mahasiswa_model.php 32
+ERROR - 2023-09-05 07:51:56 --> Severity: Warning --> Undefined array key "hasil_penelitian" C:\xampp\htdocs\genetika\application\models\Mahasiswa_model.php 33
+ERROR - 2023-09-05 07:51:56 --> Severity: Warning --> Undefined array key "seminar_proposal" C:\xampp\htdocs\genetika\application\models\Mahasiswa_model.php 32
+ERROR - 2023-09-05 07:51:56 --> Severity: Warning --> Undefined array key "hasil_penelitian" C:\xampp\htdocs\genetika\application\models\Mahasiswa_model.php 33
+ERROR - 2023-09-05 07:51:56 --> Severity: Warning --> Undefined array key "seminar_proposal" C:\xampp\htdocs\genetika\application\models\Mahasiswa_model.php 32
+ERROR - 2023-09-05 07:51:56 --> Severity: Warning --> Undefined array key "hasil_penelitian" C:\xampp\htdocs\genetika\application\models\Mahasiswa_model.php 33
+ERROR - 2023-09-05 07:51:56 --> Severity: Warning --> Undefined array key "seminar_proposal" C:\xampp\htdocs\genetika\application\models\Mahasiswa_model.php 32
+ERROR - 2023-09-05 07:51:56 --> Severity: Warning --> Undefined array key "hasil_penelitian" C:\xampp\htdocs\genetika\application\models\Mahasiswa_model.php 33
+ERROR - 2023-09-05 07:51:56 --> Severity: Warning --> Undefined array key "seminar_proposal" C:\xampp\htdocs\genetika\application\models\Mahasiswa_model.php 32
+ERROR - 2023-09-05 07:51:56 --> Severity: Warning --> Undefined array key "hasil_penelitian" C:\xampp\htdocs\genetika\application\models\Mahasiswa_model.php 33
+ERROR - 2023-09-05 07:51:56 --> Severity: Warning --> Undefined array key "seminar_proposal" C:\xampp\htdocs\genetika\application\models\Mahasiswa_model.php 32
+ERROR - 2023-09-05 07:51:56 --> Severity: Warning --> Undefined array key "hasil_penelitian" C:\xampp\htdocs\genetika\application\models\Mahasiswa_model.php 33
+ERROR - 2023-09-05 07:51:56 --> Severity: Warning --> Undefined array key "dosen_id" C:\xampp\htdocs\genetika\application\models\Proposal_mahasiswa_model.php 17
+ERROR - 2023-09-05 07:51:56 --> Severity: Warning --> Undefined array key "status" C:\xampp\htdocs\genetika\application\models\Proposal_mahasiswa_model.php 21
+ERROR - 2023-09-05 07:51:56 --> Severity: Warning --> Undefined array key "mahasiswa_id" C:\xampp\htdocs\genetika\application\models\Proposal_mahasiswa_model.php 25
+ERROR - 2023-09-05 07:52:52 --> Severity: Warning --> fsockopen(): SSL operation failed with code 1. OpenSSL Error messages:
+error:0A000086:SSL routines::certificate verify failed C:\xampp\htdocs\genetika\system\libraries\Email.php 2019
+ERROR - 2023-09-05 07:52:52 --> Severity: Warning --> fsockopen(): Failed to enable crypto C:\xampp\htdocs\genetika\system\libraries\Email.php 2019
+ERROR - 2023-09-05 07:52:52 --> Severity: Warning --> fsockopen(): Unable to connect to ssl://mail.imamdev.com:465 (Unknown error) C:\xampp\htdocs\genetika\system\libraries\Email.php 2019
+ERROR - 2023-09-05 07:52:52 --> Severity: Warning --> Undefined array key "dosen_id" C:\xampp\htdocs\genetika\application\models\Proposal_mahasiswa_model.php 17
+ERROR - 2023-09-05 07:52:52 --> Severity: Warning --> Undefined array key "status" C:\xampp\htdocs\genetika\application\models\Proposal_mahasiswa_model.php 21
+ERROR - 2023-09-05 07:52:52 --> Severity: Warning --> Undefined array key "mahasiswa_id" C:\xampp\htdocs\genetika\application\models\Proposal_mahasiswa_model.php 25
+ERROR - 2023-09-05 07:55:19 --> Severity: Warning --> Undefined array key "seminar_proposal" C:\xampp\htdocs\genetika\application\models\Mahasiswa_model.php 32
+ERROR - 2023-09-05 07:55:19 --> Severity: Warning --> Undefined array key "hasil_penelitian" C:\xampp\htdocs\genetika\application\models\Mahasiswa_model.php 33
+ERROR - 2023-09-05 07:55:19 --> Severity: Warning --> Undefined array key "seminar_proposal" C:\xampp\htdocs\genetika\application\models\Mahasiswa_model.php 32
+ERROR - 2023-09-05 07:55:19 --> Severity: Warning --> Undefined array key "hasil_penelitian" C:\xampp\htdocs\genetika\application\models\Mahasiswa_model.php 33
+ERROR - 2023-09-05 07:55:19 --> Severity: Warning --> Undefined array key "seminar_proposal" C:\xampp\htdocs\genetika\application\models\Mahasiswa_model.php 32
+ERROR - 2023-09-05 07:55:19 --> Severity: Warning --> Undefined array key "hasil_penelitian" C:\xampp\htdocs\genetika\application\models\Mahasiswa_model.php 33
+ERROR - 2023-09-05 07:55:19 --> Severity: Warning --> Undefined array key "seminar_proposal" C:\xampp\htdocs\genetika\application\models\Mahasiswa_model.php 32
+ERROR - 2023-09-05 07:55:19 --> Severity: Warning --> Undefined array key "hasil_penelitian" C:\xampp\htdocs\genetika\application\models\Mahasiswa_model.php 33
+ERROR - 2023-09-05 07:55:19 --> Severity: Warning --> Undefined array key "seminar_proposal" C:\xampp\htdocs\genetika\application\models\Mahasiswa_model.php 32
+ERROR - 2023-09-05 07:55:19 --> Severity: Warning --> Undefined array key "hasil_penelitian" C:\xampp\htdocs\genetika\application\models\Mahasiswa_model.php 33
+ERROR - 2023-09-05 07:55:19 --> Severity: Warning --> Undefined array key "seminar_proposal" C:\xampp\htdocs\genetika\application\models\Mahasiswa_model.php 32
+ERROR - 2023-09-05 07:55:19 --> Severity: Warning --> Undefined array key "hasil_penelitian" C:\xampp\htdocs\genetika\application\models\Mahasiswa_model.php 33
+ERROR - 2023-09-05 07:55:19 --> Severity: Warning --> Undefined array key "seminar_proposal" C:\xampp\htdocs\genetika\application\models\Mahasiswa_model.php 32
+ERROR - 2023-09-05 07:55:19 --> Severity: Warning --> Undefined array key "hasil_penelitian" C:\xampp\htdocs\genetika\application\models\Mahasiswa_model.php 33
+ERROR - 2023-09-05 07:55:21 --> Severity: Warning --> Undefined array key "mahasiswa_id" C:\xampp\htdocs\genetika\application\models\Seminar_model.php 32
+ERROR - 2023-09-05 07:55:28 --> Severity: Warning --> Undefined array key "mahasiswa_id" C:\xampp\htdocs\genetika\application\models\Seminar_model.php 32
+ERROR - 2023-09-05 07:55:42 --> Severity: Warning --> Undefined array key "mahasiswa_id" C:\xampp\htdocs\genetika\application\models\Seminar_model.php 32
+ERROR - 2023-09-05 07:55:46 --> Severity: Warning --> Undefined array key "mahasiswa_id" C:\xampp\htdocs\genetika\application\models\Seminar_model.php 32
+ERROR - 2023-09-05 07:59:26 --> Severity: Warning --> Undefined array key "seminar_proposal" C:\xampp\htdocs\genetika\application\models\Mahasiswa_model.php 32
+ERROR - 2023-09-05 07:59:26 --> Severity: Warning --> Undefined array key "hasil_penelitian" C:\xampp\htdocs\genetika\application\models\Mahasiswa_model.php 33
+ERROR - 2023-09-05 07:59:26 --> Severity: Warning --> Undefined array key "seminar_proposal" C:\xampp\htdocs\genetika\application\models\Mahasiswa_model.php 32
+ERROR - 2023-09-05 07:59:26 --> Severity: Warning --> Undefined array key "hasil_penelitian" C:\xampp\htdocs\genetika\application\models\Mahasiswa_model.php 33
+ERROR - 2023-09-05 07:59:26 --> Severity: Warning --> Undefined array key "seminar_proposal" C:\xampp\htdocs\genetika\application\models\Mahasiswa_model.php 32
+ERROR - 2023-09-05 07:59:26 --> Severity: Warning --> Undefined array key "hasil_penelitian" C:\xampp\htdocs\genetika\application\models\Mahasiswa_model.php 33
+ERROR - 2023-09-05 07:59:26 --> Severity: Warning --> Undefined array key "seminar_proposal" C:\xampp\htdocs\genetika\application\models\Mahasiswa_model.php 32
+ERROR - 2023-09-05 07:59:26 --> Severity: Warning --> Undefined array key "hasil_penelitian" C:\xampp\htdocs\genetika\application\models\Mahasiswa_model.php 33
+ERROR - 2023-09-05 07:59:26 --> Severity: Warning --> Undefined array key "seminar_proposal" C:\xampp\htdocs\genetika\application\models\Mahasiswa_model.php 32
+ERROR - 2023-09-05 07:59:26 --> Severity: Warning --> Undefined array key "hasil_penelitian" C:\xampp\htdocs\genetika\application\models\Mahasiswa_model.php 33
+ERROR - 2023-09-05 07:59:26 --> Severity: Warning --> Undefined array key "seminar_proposal" C:\xampp\htdocs\genetika\application\models\Mahasiswa_model.php 32
+ERROR - 2023-09-05 07:59:26 --> Severity: Warning --> Undefined array key "hasil_penelitian" C:\xampp\htdocs\genetika\application\models\Mahasiswa_model.php 33
+ERROR - 2023-09-05 07:59:26 --> Severity: Warning --> Undefined array key "seminar_proposal" C:\xampp\htdocs\genetika\application\models\Mahasiswa_model.php 32
+ERROR - 2023-09-05 07:59:26 --> Severity: Warning --> Undefined array key "hasil_penelitian" C:\xampp\htdocs\genetika\application\models\Mahasiswa_model.php 33
+ERROR - 2023-09-05 07:59:28 --> Severity: Warning --> Undefined array key "mahasiswa_id" C:\xampp\htdocs\genetika\application\models\Seminar_model.php 32
+ERROR - 2023-09-05 07:59:44 --> Severity: Warning --> Undefined array key "seminar_proposal" C:\xampp\htdocs\genetika\application\models\Mahasiswa_model.php 32
+ERROR - 2023-09-05 07:59:44 --> Severity: Warning --> Undefined array key "hasil_penelitian" C:\xampp\htdocs\genetika\application\models\Mahasiswa_model.php 33
+ERROR - 2023-09-05 07:59:44 --> Severity: Warning --> Undefined array key "seminar_proposal" C:\xampp\htdocs\genetika\application\models\Mahasiswa_model.php 32
+ERROR - 2023-09-05 07:59:44 --> Severity: Warning --> Undefined array key "hasil_penelitian" C:\xampp\htdocs\genetika\application\models\Mahasiswa_model.php 33
+ERROR - 2023-09-05 07:59:44 --> Severity: Warning --> Undefined array key "seminar_proposal" C:\xampp\htdocs\genetika\application\models\Mahasiswa_model.php 32
+ERROR - 2023-09-05 07:59:44 --> Severity: Warning --> Undefined array key "hasil_penelitian" C:\xampp\htdocs\genetika\application\models\Mahasiswa_model.php 33
+ERROR - 2023-09-05 07:59:44 --> Severity: Warning --> Undefined array key "seminar_proposal" C:\xampp\htdocs\genetika\application\models\Mahasiswa_model.php 32
+ERROR - 2023-09-05 07:59:44 --> Severity: Warning --> Undefined array key "hasil_penelitian" C:\xampp\htdocs\genetika\application\models\Mahasiswa_model.php 33
+ERROR - 2023-09-05 07:59:44 --> Severity: Warning --> Undefined array key "seminar_proposal" C:\xampp\htdocs\genetika\application\models\Mahasiswa_model.php 32
+ERROR - 2023-09-05 07:59:44 --> Severity: Warning --> Undefined array key "hasil_penelitian" C:\xampp\htdocs\genetika\application\models\Mahasiswa_model.php 33
+ERROR - 2023-09-05 07:59:44 --> Severity: Warning --> Undefined array key "seminar_proposal" C:\xampp\htdocs\genetika\application\models\Mahasiswa_model.php 32
+ERROR - 2023-09-05 07:59:44 --> Severity: Warning --> Undefined array key "hasil_penelitian" C:\xampp\htdocs\genetika\application\models\Mahasiswa_model.php 33
+ERROR - 2023-09-05 07:59:44 --> Severity: Warning --> Undefined array key "seminar_proposal" C:\xampp\htdocs\genetika\application\models\Mahasiswa_model.php 32
+ERROR - 2023-09-05 07:59:44 --> Severity: Warning --> Undefined array key "hasil_penelitian" C:\xampp\htdocs\genetika\application\models\Mahasiswa_model.php 33
+ERROR - 2023-09-05 07:59:46 --> Severity: Warning --> Undefined array key "mahasiswa_id" C:\xampp\htdocs\genetika\application\models\Konsultasi_model.php 41
+ERROR - 2023-09-05 07:59:46 --> Severity: Warning --> Undefined array key "mahasiswa_id" C:\xampp\htdocs\genetika\application\models\Seminar_model.php 32
+ERROR - 2023-09-05 08:00:10 --> Severity: Warning --> fsockopen(): SSL operation failed with code 1. OpenSSL Error messages:
+error:0A000086:SSL routines::certificate verify failed C:\xampp\htdocs\genetika\system\libraries\Email.php 2019
+ERROR - 2023-09-05 08:00:10 --> Severity: Warning --> fsockopen(): Failed to enable crypto C:\xampp\htdocs\genetika\system\libraries\Email.php 2019
+ERROR - 2023-09-05 08:00:10 --> Severity: Warning --> fsockopen(): Unable to connect to ssl://mail.imamdev.com:465 (Unknown error) C:\xampp\htdocs\genetika\system\libraries\Email.php 2019
+ERROR - 2023-09-05 08:04:14 --> Severity: Warning --> Undefined array key "seminar_proposal" C:\xampp\htdocs\genetika\application\models\Mahasiswa_model.php 32
+ERROR - 2023-09-05 08:04:14 --> Severity: Warning --> Undefined array key "hasil_penelitian" C:\xampp\htdocs\genetika\application\models\Mahasiswa_model.php 33
+ERROR - 2023-09-05 08:04:14 --> Severity: Warning --> Undefined array key "seminar_proposal" C:\xampp\htdocs\genetika\application\models\Mahasiswa_model.php 32
+ERROR - 2023-09-05 08:04:14 --> Severity: Warning --> Undefined array key "hasil_penelitian" C:\xampp\htdocs\genetika\application\models\Mahasiswa_model.php 33
+ERROR - 2023-09-05 08:04:14 --> Severity: Warning --> Undefined array key "seminar_proposal" C:\xampp\htdocs\genetika\application\models\Mahasiswa_model.php 32
+ERROR - 2023-09-05 08:04:14 --> Severity: Warning --> Undefined array key "hasil_penelitian" C:\xampp\htdocs\genetika\application\models\Mahasiswa_model.php 33
+ERROR - 2023-09-05 08:04:14 --> Severity: Warning --> Undefined array key "seminar_proposal" C:\xampp\htdocs\genetika\application\models\Mahasiswa_model.php 32
+ERROR - 2023-09-05 08:04:14 --> Severity: Warning --> Undefined array key "hasil_penelitian" C:\xampp\htdocs\genetika\application\models\Mahasiswa_model.php 33
+ERROR - 2023-09-05 08:04:14 --> Severity: Warning --> Undefined array key "seminar_proposal" C:\xampp\htdocs\genetika\application\models\Mahasiswa_model.php 32
+ERROR - 2023-09-05 08:04:14 --> Severity: Warning --> Undefined array key "hasil_penelitian" C:\xampp\htdocs\genetika\application\models\Mahasiswa_model.php 33
+ERROR - 2023-09-05 08:04:14 --> Severity: Warning --> Undefined array key "seminar_proposal" C:\xampp\htdocs\genetika\application\models\Mahasiswa_model.php 32
+ERROR - 2023-09-05 08:04:14 --> Severity: Warning --> Undefined array key "hasil_penelitian" C:\xampp\htdocs\genetika\application\models\Mahasiswa_model.php 33
+ERROR - 2023-09-05 08:04:14 --> Severity: Warning --> Undefined array key "seminar_proposal" C:\xampp\htdocs\genetika\application\models\Mahasiswa_model.php 32
+ERROR - 2023-09-05 08:04:14 --> Severity: Warning --> Undefined array key "hasil_penelitian" C:\xampp\htdocs\genetika\application\models\Mahasiswa_model.php 33
+ERROR - 2023-09-05 08:04:27 --> Severity: Warning --> fsockopen(): SSL operation failed with code 1. OpenSSL Error messages:
+error:0A000086:SSL routines::certificate verify failed C:\xampp\htdocs\genetika\system\libraries\Email.php 2019
+ERROR - 2023-09-05 08:04:27 --> Severity: Warning --> fsockopen(): Failed to enable crypto C:\xampp\htdocs\genetika\system\libraries\Email.php 2019
+ERROR - 2023-09-05 08:04:27 --> Severity: Warning --> fsockopen(): Unable to connect to ssl://mail.imamdev.com:465 (Unknown error) C:\xampp\htdocs\genetika\system\libraries\Email.php 2019
+ERROR - 2023-09-05 08:05:11 --> Severity: Warning --> fsockopen(): SSL operation failed with code 1. OpenSSL Error messages:
+error:0A000086:SSL routines::certificate verify failed C:\xampp\htdocs\genetika\system\libraries\Email.php 2019
+ERROR - 2023-09-05 08:05:11 --> Severity: Warning --> fsockopen(): Failed to enable crypto C:\xampp\htdocs\genetika\system\libraries\Email.php 2019
+ERROR - 2023-09-05 08:05:11 --> Severity: Warning --> fsockopen(): Unable to connect to ssl://mail.imamdev.com:465 (Unknown error) C:\xampp\htdocs\genetika\system\libraries\Email.php 2019
+ERROR - 2023-09-05 08:05:24 --> Severity: Warning --> Undefined array key "seminar_proposal" C:\xampp\htdocs\genetika\application\models\Mahasiswa_model.php 32
+ERROR - 2023-09-05 08:05:24 --> Severity: Warning --> Undefined array key "hasil_penelitian" C:\xampp\htdocs\genetika\application\models\Mahasiswa_model.php 33
+ERROR - 2023-09-05 08:05:24 --> Severity: Warning --> Undefined array key "seminar_proposal" C:\xampp\htdocs\genetika\application\models\Mahasiswa_model.php 32
+ERROR - 2023-09-05 08:05:24 --> Severity: Warning --> Undefined array key "hasil_penelitian" C:\xampp\htdocs\genetika\application\models\Mahasiswa_model.php 33
+ERROR - 2023-09-05 08:05:24 --> Severity: Warning --> Undefined array key "seminar_proposal" C:\xampp\htdocs\genetika\application\models\Mahasiswa_model.php 32
+ERROR - 2023-09-05 08:05:24 --> Severity: Warning --> Undefined array key "hasil_penelitian" C:\xampp\htdocs\genetika\application\models\Mahasiswa_model.php 33
+ERROR - 2023-09-05 08:05:24 --> Severity: Warning --> Undefined array key "seminar_proposal" C:\xampp\htdocs\genetika\application\models\Mahasiswa_model.php 32
+ERROR - 2023-09-05 08:05:24 --> Severity: Warning --> Undefined array key "hasil_penelitian" C:\xampp\htdocs\genetika\application\models\Mahasiswa_model.php 33
+ERROR - 2023-09-05 08:05:24 --> Severity: Warning --> Undefined array key "seminar_proposal" C:\xampp\htdocs\genetika\application\models\Mahasiswa_model.php 32
+ERROR - 2023-09-05 08:05:24 --> Severity: Warning --> Undefined array key "hasil_penelitian" C:\xampp\htdocs\genetika\application\models\Mahasiswa_model.php 33
+ERROR - 2023-09-05 08:05:24 --> Severity: Warning --> Undefined array key "seminar_proposal" C:\xampp\htdocs\genetika\application\models\Mahasiswa_model.php 32
+ERROR - 2023-09-05 08:05:24 --> Severity: Warning --> Undefined array key "hasil_penelitian" C:\xampp\htdocs\genetika\application\models\Mahasiswa_model.php 33
+ERROR - 2023-09-05 08:05:24 --> Severity: Warning --> Undefined array key "seminar_proposal" C:\xampp\htdocs\genetika\application\models\Mahasiswa_model.php 32
+ERROR - 2023-09-05 08:05:24 --> Severity: Warning --> Undefined array key "hasil_penelitian" C:\xampp\htdocs\genetika\application\models\Mahasiswa_model.php 33
+ERROR - 2023-09-05 08:05:31 --> Severity: Warning --> fsockopen(): SSL operation failed with code 1. OpenSSL Error messages:
+error:0A000086:SSL routines::certificate verify failed C:\xampp\htdocs\genetika\system\libraries\Email.php 2019
+ERROR - 2023-09-05 08:05:31 --> Severity: Warning --> fsockopen(): Failed to enable crypto C:\xampp\htdocs\genetika\system\libraries\Email.php 2019
+ERROR - 2023-09-05 08:05:31 --> Severity: Warning --> fsockopen(): Unable to connect to ssl://mail.imamdev.com:465 (Unknown error) C:\xampp\htdocs\genetika\system\libraries\Email.php 2019
+ERROR - 2023-09-05 08:06:24 --> Severity: Warning --> Undefined array key "dosen_id" C:\xampp\htdocs\genetika\application\models\Proposal_mahasiswa_model.php 17
+ERROR - 2023-09-05 08:06:24 --> Severity: Warning --> Undefined array key "status" C:\xampp\htdocs\genetika\application\models\Proposal_mahasiswa_model.php 21
+ERROR - 2023-09-05 08:06:24 --> Severity: Warning --> Undefined array key "mahasiswa_id" C:\xampp\htdocs\genetika\application\models\Proposal_mahasiswa_model.php 25
+ERROR - 2023-09-05 08:06:24 --> Severity: Warning --> Undefined array key "mahasiswa_id" C:\xampp\htdocs\genetika\application\models\Hasil_kegiatan_model.php 11
+ERROR - 2023-09-05 08:06:35 --> Severity: Warning --> Undefined array key "seminar_proposal" C:\xampp\htdocs\genetika\application\models\Mahasiswa_model.php 32
+ERROR - 2023-09-05 08:06:35 --> Severity: Warning --> Undefined array key "hasil_penelitian" C:\xampp\htdocs\genetika\application\models\Mahasiswa_model.php 33
+ERROR - 2023-09-05 08:06:35 --> Severity: Warning --> Undefined array key "seminar_proposal" C:\xampp\htdocs\genetika\application\models\Mahasiswa_model.php 32
+ERROR - 2023-09-05 08:06:35 --> Severity: Warning --> Undefined array key "hasil_penelitian" C:\xampp\htdocs\genetika\application\models\Mahasiswa_model.php 33
+ERROR - 2023-09-05 08:06:35 --> Severity: Warning --> Undefined array key "seminar_proposal" C:\xampp\htdocs\genetika\application\models\Mahasiswa_model.php 32
+ERROR - 2023-09-05 08:06:35 --> Severity: Warning --> Undefined array key "hasil_penelitian" C:\xampp\htdocs\genetika\application\models\Mahasiswa_model.php 33
+ERROR - 2023-09-05 08:06:35 --> Severity: Warning --> Undefined array key "seminar_proposal" C:\xampp\htdocs\genetika\application\models\Mahasiswa_model.php 32
+ERROR - 2023-09-05 08:06:35 --> Severity: Warning --> Undefined array key "hasil_penelitian" C:\xampp\htdocs\genetika\application\models\Mahasiswa_model.php 33
+ERROR - 2023-09-05 08:06:35 --> Severity: Warning --> Undefined array key "seminar_proposal" C:\xampp\htdocs\genetika\application\models\Mahasiswa_model.php 32
+ERROR - 2023-09-05 08:06:35 --> Severity: Warning --> Undefined array key "hasil_penelitian" C:\xampp\htdocs\genetika\application\models\Mahasiswa_model.php 33
+ERROR - 2023-09-05 08:06:35 --> Severity: Warning --> Undefined array key "seminar_proposal" C:\xampp\htdocs\genetika\application\models\Mahasiswa_model.php 32
+ERROR - 2023-09-05 08:06:35 --> Severity: Warning --> Undefined array key "hasil_penelitian" C:\xampp\htdocs\genetika\application\models\Mahasiswa_model.php 33
+ERROR - 2023-09-05 08:06:35 --> Severity: Warning --> Undefined array key "seminar_proposal" C:\xampp\htdocs\genetika\application\models\Mahasiswa_model.php 32
+ERROR - 2023-09-05 08:06:35 --> Severity: Warning --> Undefined array key "hasil_penelitian" C:\xampp\htdocs\genetika\application\models\Mahasiswa_model.php 33
